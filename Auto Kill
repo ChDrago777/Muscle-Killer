@@ -424,7 +424,7 @@ end
 
 CreateToggle("AutoㅤKill", "AutoKill")
 CreateToggle("AutoㅤKillㅤBasic", "AutoKillBasic")
-CreateToggle("UKillㅤAura", "KillAura")
+CreateToggle("KillㅤAura", "KillAura")
 CreateToggle("KillㅤTarget", "KillTarget")
 
 local lockPosBtn = Create("TextButton", {
